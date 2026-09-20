@@ -3,3 +3,4 @@ Flask-Cors>=5.0.0
 pandas>=2.3.0
 numpy>=2.2.0
 scikit-learn>=1.7.0
+gunicorn
