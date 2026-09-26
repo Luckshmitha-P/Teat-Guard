@@ -1,6 +1,6 @@
 export const translations = {
   en: {
-    helloFarmer: 'Hello Gunasingam Farmer 👋',
+    helloFarmer: 'Hello Farmer 👋',
     farmOverview: 'Here’s your farm overview',
     totalCows: 'Total Cows',
     highRisk: 'High Risk',
@@ -104,7 +104,7 @@ export const translations = {
     loading: 'Loading...',
   },
   ta: {
-    helloFarmer: 'வணக்கம், குணசிங்கம் விவசாயி 👋',
+    helloFarmer: 'வணக்கம், விவசாயி 👋',
     farmOverview: 'உங்கள் பண்ணை அறிக்கை',
     totalCows: 'மொத்த பசுக்கள்',
     highRisk: 'உயர் ஆபத்து',
@@ -207,7 +207,7 @@ export const translations = {
     loading: 'ஏற்றுகிறது...',
   },
   hi: {
-    helloFarmer: 'नमस्कार, गुणसिंघम किसान 👋',
+    helloFarmer: 'नमस्कार, किसान 👋',
     farmOverview: 'आपका फार्म अवलोकन',
     totalCows: 'कुल गायें',
     highRisk: 'उच्च जोखिम',
@@ -308,7 +308,7 @@ export const translations = {
     loading: 'लोड हो रहा है...',
   },
   ml: {
-    helloFarmer: 'ഹലോ, ഗുണസിംഗം ഫാർമർ 👋',
+    helloFarmer: 'ഹലോ, ഫാർമർ 👋',
     farmOverview: 'പന്നിയുടെ അവലോകനം',
     totalCows: 'മൊത്തം പശുക്കൾ',
     highRisk: 'ഉയർന്ന അപകടം',
